@@ -1,7 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQE7TrxrCS5GkA/profile-displaybackgroundimage-shrink_200_800/0/1670079462255?e=2147483647&v=beta&t=hSBs5-ig2yp4nDHVm9Q9jMA85OgLcwAgw7bsh75CEjg)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQE7TrxrCS5GkA/profile-displaybackgroundimage-shrink_200_800/0/1670079462255?e=2147483647&v=beta&t=hSBs5-ig2yp4nDHVm9Q9jMA85OgLcwAgw7bsh75CEjg)
 <h1 align="center">Hi 👋, I'm Sanket Ugale</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsanketu&label=Profile%20views&color=0e75b6&style=flat" alt="iamsanketu" /> </p>
 
 ## 🚀 About Me
@@ -32,6 +30,5 @@ I'm a data engineer with 1+ years of work experience. I'm working in the ad tech
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-
-
+## 🔥 Streak stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsanketu&" alt="iamsanketu" /></p>
