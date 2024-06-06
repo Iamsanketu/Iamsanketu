@@ -7,7 +7,7 @@ I'm a data engineer with 1+ years of work experience. I'm working in the ad tech
 
 * 🧠 I'm currently reading [Fundamentals of Data Engineering by Joe Reis and Matt Housley](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 * 👋 I'm open to collaborating on data engineering projects/open-source.
-* 🎉 I completed my Post Graduate Diploma in Big Data Analytics [(PG-DBDA) from CDAC ACTS](https://drive.google.com/file/d/1qHF3cGu0pwRDcOhpyx19EdB3ehGXTFN6/view?usp=share_link) in 2023.
+* 🎉 I completed my **Post Graduate Diploma in Big Data Analytics** [(PG-DBDA) from CDAC ACTS Pune](https://drive.google.com/file/d/1qHF3cGu0pwRDcOhpyx19EdB3ehGXTFN6/view?usp=share_link) in 2023.
 * 🎉 I graduated from the [Data Engineering Zoomcamp 2023](https://drive.google.com/file/d/1qHF3cGu0pwRDcOhpyx19EdB3ehGXTFN6/view?usp=share_link) this year! Find my capstone project [here](https://github.com/itsadityagupta/yelposphere).
 
 ## 🛠 Skills
