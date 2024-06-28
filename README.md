@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsanketu&label=Profile%20views&color=0e75b6&style=flat" alt="iamsanketu" /> </p>
 
 ## 🚀 About Me
-I'm a data engineer with 1.5+ years of work experience. I'm working in the ad tech space right now and have worked in the fintech domain in the past.
+I'm a data engineer with 1.5+ years of work experience. I'm working in the ad tech space right now and have worked in the fintech domain in the past..
 
 * 🧠 I'm currently reading [Fundamentals of Data Engineering by Joe Reis and Matt Housley](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 * 👋 I'm open to collaborating on data engineering projects/open-source.
